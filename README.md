@@ -10,3 +10,5 @@
 
 <p><b>-HTML</b><p/>
 <p><b>-CSS</b></p>
+
+<img src="https://github.com/RubianoMenezes/Projeto2-CSS-HTML/blob/main/projeto2/assets/Cellphone.jpeg" />
